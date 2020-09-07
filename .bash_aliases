@@ -22,7 +22,3 @@ alias gt='git checkout'
 alias gtd='git checkout develop'
 alias gm='git merge --no-ff'
 alias grv='git remote -v'
-
-# Python envs
-alias python='python3'
-alias pip='pip3'
